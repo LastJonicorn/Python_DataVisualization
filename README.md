@@ -13,6 +13,7 @@ The goal is to demonstrate Python skills in:
 
 **Source:** Kaggle — *Video Game Sales (Short Version)*  
 **File used:** `vgsales-12-4-2019-short.csv`  
+<img src="screenshots/top10.png" width="200" />
 
 ## 🧰 Tools & Libraries
 
